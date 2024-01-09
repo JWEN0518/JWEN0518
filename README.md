@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Jing Wen. A software engineering student at University Technology Malaysia. 
 
 <!--
 **JWEN0518/JWEN0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
