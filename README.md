@@ -1,5 +1,3 @@
-### Hi there 👋
-I am Jing Wen. A software engineering student at University Technology Malaysia. 
 <h1 align="center">Hi 👋, I'm Yong Jing Wen</h1>
 <h3 align="center">A Year 1 Software Engineering student at University Technology Malaysia.</h3>
 
