@@ -6,7 +6,7 @@
 
 
 <div style="text-align: right;">
----
+
  
 ### 📄 About Me
 
@@ -16,8 +16,10 @@
 **Year       :** Year 1  
 **University :** University Technology Malaysia
 
+---
 
 </div>
+
 
 
 - 🔭 I’m currently working on **Technology and information system project**
